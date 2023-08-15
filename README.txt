@@ -1,0 +1,2 @@
+It can only run in cmd, win10 can be run directly double-clicked, but it cannot run in win11 terminal, if necessary, win11 users can right-click the exe program, choose to run as administrator.
+其只能在cmd中运行，win10可以直接双击运行，但其无法在win11终端里运行，如有需要，win11用户可右击exe程序，选择以管理员身份运行。
